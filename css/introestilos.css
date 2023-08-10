@@ -1,0 +1,23 @@
+/* colores en css */
+.colores{
+    color:red;
+}
+
+.color-hexadecimal{
+    color: #393E41;
+}
+
+.color-rbg{
+ color:rgb(64, 64, 64);   
+}
+
+.color-rbga{
+    color:rgba(87, 54, 18, 0.8)
+}
+
+
+/* fondos en css */
+.fondo{
+    background-color: aquamarine;
+    background-image: url(https://img.freepik.com/vector-gratis/patron-codigo-binario-sobre-fondo-azul-oscuro_53876-116183.jpg);
+}
